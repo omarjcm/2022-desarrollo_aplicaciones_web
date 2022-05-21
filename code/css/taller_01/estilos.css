@@ -1,0 +1,20 @@
+/* Selector universal */
+* {
+    font-size: 40px;
+}
+
+/* Selector por elemento */
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+
+/* Selector de Clase */
+.titulo {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.descripcion {
+    font-size: 16px;
+}
