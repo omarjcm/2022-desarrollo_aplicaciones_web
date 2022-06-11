@@ -15,6 +15,12 @@ h1 {
     font-style: oblique;
 }
 
-.descripcion {
+/* Agrupación de selectores */
+.descripcion, .pie_pagina {
     font-size: 16px;
+}
+
+/* Selector de identificador */
+#daw {
+    font-size: 10px;
 }
