@@ -1,3 +1,4 @@
+const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest
 const print = (mensaje) => console.log(mensaje)
 const URL = 'https://rickandmortyapi.com/api/character/'
 
